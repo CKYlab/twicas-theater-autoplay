@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TwitCasting YouTubeシアパ 自動再生
+// @name         ツイキャス YouTubeシアパ 自動再生
 // @namespace    https://github.com/CKYlab/
 // @version      1.0.0
 // @description  PC版ツイキャスのYouTubeシアターパーティを自動で再生します。
